@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.3">
+  <diagram name="Page-1" id="LMpQxSev6slKkc1KvUCD">
+    <mxGraphModel dx="786" dy="391" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XQaXQQrHAWHooEJmd-nn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="XQaXQQrHAWHooEJmd-nn-1" target="XQaXQQrHAWHooEJmd-nn-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQaXQQrHAWHooEJmd-nn-1" value="API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="253" y="205" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XQaXQQrHAWHooEJmd-nn-3" value="ETL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="453" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XQaXQQrHAWHooEJmd-nn-5" value="PostgreSQL DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="650" y="205" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vqHOJaPDFoXl7l1WD5m-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XQaXQQrHAWHooEJmd-nn-3" target="XQaXQQrHAWHooEJmd-nn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
